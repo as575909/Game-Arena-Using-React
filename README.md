@@ -1,8 +1,7 @@
 # Games-Arena | 
-Develop a pseudo front end application which would let the users help list and browse games developed for different platforms conveniently.
+Develop a front end application which would let the users help list and browse games
+developed for different platforms conveniently.
 
-## How to run the project online
-Open the online demo [here](https://manishbisht.github.io/Games-Arena)
 
 ## Features
 
