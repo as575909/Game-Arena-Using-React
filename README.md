@@ -7,7 +7,6 @@ developed for different platforms conveniently.
 
 - Use of Web API to fetch games details.
 - Visually interactive responsive design listing all the games.
-- Submit Screenshot, Source code & Instructions.
 - A feature to Search (via name).
 - Implement Sort feature (to filter through ‘score’ in ascending and descending order).
 - Add autocomplete feature to Search games conveniently .
